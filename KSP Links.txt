@@ -1,0 +1,7 @@
+v0.7.3:https://web.archive.org/web/20171214012934/https://kerbalspaceprogram.com/archive/0-7-3/KSP_win_0_7_3.zip
+v0.8.5:https://web.archive.org/web/20171214004511/https://kerbalspaceprogram.com/archive/0-8-5/KSP_win_0_8_5.zip
+v0.9.0:https://web.archive.org/web/20171214021804/https://kerbalspaceprogram.com/archive/0-9/KSP_win_0_9.zip
+v0.10.1:https://web.archive.org/web/20171214023633/https://kerbalspaceprogram.com/archive/0-10-1/KSP_win_0_10_1.zip/
+v0.11.1:https://web.archive.org/web/20171214000815/https://kerbalspaceprogram.com/archive/0-11-1/KSP_win_0_11_1.zip
+v0.12.0:https://web.archive.org/web/20171214022100/https://kerbalspaceprogram.com/archive/0-12/KSP_win_0_12.zip
+v0.13.3:https://web.archive.org/web/20171214030829/https://kerbalspaceprogram.com/archive/0-13-3/KSP_win_0_13_3.zip
